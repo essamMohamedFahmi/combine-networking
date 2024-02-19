@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "323BEBF8-DE47-48DD-958F-2F38E91427BB",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CombineNetworking.xcodeproj",
+        "identifier" : "CED4C9F02B59996000D4A72C",
+        "name" : "CombineNetworkingTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:Packages\/NetworkingKit",
+        "identifier" : "NetworkingKitTests",
+        "name" : "NetworkingKitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
