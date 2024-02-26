@@ -24,7 +24,7 @@ Wondering how to start? Let's break it down. Consider our network's big picture 
 
 In the image above, you get a glimpse of our networking solution's big picture. Each request has an endpoint, including inputs like the base URL, path, method, headers, and body. We then pass this endpoint to the API client, our networking client, responsible for communicating with our servers. It returns a response for success or an error for failure. Ready to dive into designing and implementing each part? Let's get started!
 
-Read the full article step by step [here](link_to_article).
+Read the full article step by step [here](https://www.linkedin.com/pulse/scalable-simple-networking-swift-combine-unit-testing-essam-fahmy-h7zkf/?trackingId=a25l1F63TmiuZulhxNt3Og%3D%3D).
 
 ## Features
 
